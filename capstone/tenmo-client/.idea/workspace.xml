@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f5e0047-c16f-4d1d-82c8-0979c8d4bc7d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28O3EusBsGb5fsshzw60GruDZmf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GitHub - Mock Draft/NFL-Mock-Draft/MockDraft" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator.tenmo.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.App" />
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDTOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.tenmo.model" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.model.AccountDTOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in m02-capstone-client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferTest,get_Transfer_ID_Test and 12 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Transfer_ID_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Transfer_ID_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Transfer_Type_ID_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Transfer_Type_ID_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Transfer_Status_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Transfer_Status_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Account_From_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Account_From_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Account_To_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Account_To_Id_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,get_Transfer_Amount_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,set_Transfer_Amount_Test" />
+        <pattern testClass="com.techelevator.tenmo.model.TransferTest,to_String_Test" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferTest.to_String_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-capstone-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.tenmo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.tenmo.model" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.tenmo.model.TransferTest" />
+      <option name="METHOD_NAME" value="to_String_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in m02-capstone-client" />
+        <item itemvalue="JUnit.AccountDTOTest" />
+        <item itemvalue="JUnit.TransferTest.to_String_Test" />
+        <item itemvalue="JUnit.TransferTest,get_Transfer_ID_Test and 12 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5e0047-c16f-4d1d-82c8-0979c8d4bc7d" name="Changes" comment="" />
+      <created>1651073699663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651073699663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tenmo_client$App.ic" NAME="App Coverage Results" MODIFIED="1651256455439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.tenmo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
